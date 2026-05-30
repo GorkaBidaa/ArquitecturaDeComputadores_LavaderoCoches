@@ -19,3 +19,12 @@ Para lograr el desarrollo del proyecto, el programa se basa en un **Generador de
 * **Arquitectura:** Microcontrolador Philips Semiconductors 80C552 (8-bit, derivado núcleo 8051).
 * **Lenguaje de Programación:** Ensamblador puro (ASM 8051).
 * **Entorno de Simulación e IDE:** Keil µVision2.
+
+## 📂 Estructura del Repositorio
+
+
+* `/src`: Código fuente y entorno del proyecto.
+  * `Lavadero.Uv2`: Archivo principal del Workspace para abrir el proyecto en Keil µVision2.
+  * `Lavadero.a`: Código fuente principal escrito íntegramente en lenguaje ensamblador (ASM 8051).
+* `/documentacion`: Información técnica del desarrollo.
+  * `PF_AC27698_2024-25_Gorka_Bidaguren_Eduardo_Rocha_Memoria.pdf`: Memoria técnica detallando el diseño del hardware, diagramas de estado, flujos lógicos y cálculos matemáticos para la configuración de los temporizadores.
