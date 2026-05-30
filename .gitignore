@@ -1,0 +1,10 @@
+# Archivos generados por la compilación de Keil µVision2
+*.Opt
+*.plg
+*.M51
+*.LST
+*.OBJ
+*.lnp
+
+# Archivos de backup automáticos
+*.Bak
